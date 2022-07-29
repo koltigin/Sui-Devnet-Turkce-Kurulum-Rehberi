@@ -1,6 +1,9 @@
 # Sui Devnet Türkçe Kurulum Rehberi
 ![image](https://user-images.githubusercontent.com/102043225/179367282-e34379a6-3f7c-4273-887e-86251793610c.png)
 
+## Sui 0.6.2 Güncellemesi
+Buradan güncelemeyi yapabilirsiniz; https://github.com/koltigin/Sui-Devnet-Turkce-Kurulum-Rehberi/blob/main/sui-0.6.2-guncellemesi.md
+
 ## Sistemi Güncelleme
 ```shell
 sudo apt update && sudo apt upgrade -y
